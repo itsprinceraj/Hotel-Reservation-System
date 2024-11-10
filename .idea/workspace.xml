@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3369b89-3d77-4cbf-a170-72eb64c5c03c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotel Reservation System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConnectDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteReserve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExitClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetRoomNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReserveRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UpdateReservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewReservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
